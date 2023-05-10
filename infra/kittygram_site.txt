@@ -1,0 +1,5 @@
+IP: 158.160.7.80;
+name_taski: https://supertaski.hopto.org;
+name_kittygram: https://kitygram-super.hopto.org;
+login: Leex;
+password: 123; 
